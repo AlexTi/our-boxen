@@ -88,3 +88,12 @@ node default {
     target => $boxen::config::repodir
   }
 }
+
+# Codeship company includes
+
+include spotify
+include alfred
+include dropbox
+include hipchat
+include chrome
+include skype

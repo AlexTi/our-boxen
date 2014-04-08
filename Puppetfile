@@ -59,3 +59,10 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "spotify",     "1.0.1"
+github "alfred",      "1.1.8"
+github "dropbox",     "1.2.0"
+github "hipchat",     "1.1.1"
+github "chrome",      "1.1.2"
+github "skype",       "1.0.8"
