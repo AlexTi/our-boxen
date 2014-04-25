@@ -97,3 +97,13 @@ include dropbox
 include hipchat
 include chrome
 include skype
+include postgresql
+include tmux
+include redis
+include onepassword
+include vlc
+include spectacle
+include vagrant
+include virtualbox
+include zsh
+include zshgitprompt

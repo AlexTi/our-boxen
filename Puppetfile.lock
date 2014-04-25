@@ -69,9 +69,19 @@ GITHUBTARBALL
     nodejs (3.7.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-onepassword
+  specs:
+    onepassword (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-openssl
   specs:
     openssl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (2.2.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-phantomjs
@@ -82,6 +92,16 @@ GITHUBTARBALL
   remote: boxen/puppet-pkgconfig
   specs:
     pkgconfig (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-postgresql
+  specs:
+    postgresql (3.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-redis
+  specs:
+    redis (3.0.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -99,6 +119,11 @@ GITHUBTARBALL
     skype (1.0.8)
 
 GITHUBTARBALL
+  remote: boxen/puppet-spectacle
+  specs:
+    spectacle (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-spotify
   specs:
     spotify (1.0.1)
@@ -109,9 +134,44 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-tmux
+  specs:
+    tmux (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (3.0.7)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.11)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zshgitprompt
+  specs:
+    zshgitprompt (1.0.2)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
@@ -145,14 +205,26 @@ DEPENDENCIES
   module-data (= 0.0.3)
   nginx (= 1.4.3)
   nodejs (= 3.7.0)
+  onepassword (= 1.1.0)
   openssl (= 1.0.0)
+  osx (= 2.2.2)
   phantomjs (= 2.1.0)
   pkgconfig (= 1.0.0)
+  postgresql (= 3.0.1)
+  redis (= 3.0.3)
   repository (= 2.3.0)
   ruby (= 7.2.4)
   skype (= 1.0.8)
+  spectacle (= 1.0.0)
   spotify (= 1.0.1)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
+  sysctl (= 1.0.0)
+  tmux (= 1.0.2)
+  vagrant (= 3.0.7)
+  virtualbox (= 1.0.11)
+  vlc (= 1.1.0)
   xquartz (= 1.1.1)
+  zsh (= 1.0.0)
+  zshgitprompt (= 1.0.2)
 
